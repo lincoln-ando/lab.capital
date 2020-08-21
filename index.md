@@ -28,7 +28,7 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 - Terramagna
 - Vindi (fundada)
 - Walljobs
-- zenclub
+- zenklub
 
 
 # Quem somos?
