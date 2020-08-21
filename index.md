@@ -8,7 +8,7 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 
 # Portfolio
 
-- Alura Caelum
+- Alura Caelum (fundada)
 - Aptuno
 - Chatpay
 - ContaSimples
@@ -19,14 +19,14 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 - Lobby
 - Guppy
 - Hyppe
-- idWall
+- idWall (fundada e investida)
 - Jestor
 - Medway
 - Mora Rocks
 - Pipefy
 - Teravoz (exit: Twillio)
 - Terramagna
-- Vindi
+- Vindi (fundada)
 - Walljobs
 - zenclub
 
@@ -38,7 +38,7 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 ## Paulo Silveira
 
 ```
-Paulo faz isso e aquilo
+Paulo
 
 E aquilo outro!
 ```
