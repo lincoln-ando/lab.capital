@@ -1,35 +1,66 @@
 # LaB.Capital
 
-Somos 3 empreendedores: Paulo Silveira, Rodrigo Dantas, Linconl Ando. Investimos em Startups não para mentorar, não para ensinar: para aprender com o laboratório de experiências que estão fazendo. 
+Somos 3 empreendedores. Investimos em Startups não para mentorar, não para ensinar: para aprender com o laboratório de experiências que estão fazendo. 
 
-### Markdown
+# O que quer dizer LaB?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao mesmo tempo que começamos a investir em seed rounds.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Portfolio
 
-- Bulleted
-- List
+- Alura Caelum
+- Aptuno
+- Chatpay
+- ContaSimples
+- Docket
+- Estante Magica
+- Facil Consulta
+- Fluke
+- Lobby
+- Guppy
+- Hyppe
+- IdWall
+- Jestor
+- Medway
+- Mora Rocks
+- Pipefy
+- Teravoz (exit: Twillio)
+- Terramagna
+- Vindi
+- Walljobs
+- Zenclub
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Quem somos?
 
-[Link](url) and ![Image](src)
+## Lincoln Ando
+
+## Paulo Silveira
+
+```
+Paulo faz isso e aquilo
+
+E aquilo outro!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Rodrigo Dantas
 
-### Jekyll Themes
+# FAQ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peas/lab.capital/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Vocês estão captando dinheiro para o fundo?
+Não somos um fundo. Investimos com o nosso dinheiro
 
-### Support or Contact
+### Mas vão montar um fundo?
+Não
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Posso mandar meu deck para vocês?
+Sim. Preferimos intros através de pessoas que conhecemos em comum.
+
+### Vocês estão buscando unicórnios?
+Não
+
+### Qual é a tese de investimento?
+Investimos para poder aprender mais. Não há setor específico, nem round, nem momento. Mas certamente o time de fundadores e fundadoras importa, pois os momentos iniciais estão muito relacionados a execução, e é difícil enxergar economics, mercado e as pivotadas futuras.
+
+
