@@ -1,11 +1,10 @@
 # LaB.Capital
 
-Somos 3 empreendedores. Investimos em Startups não para mentorar, não para ensinar: para aprender com o laboratório de experiências que estão fazendo. 
+Um pequeno e simpático mini-fundo de 3 empreendedores
 
 # O que quer dizer LaB?
 
 Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao mesmo tempo que começamos a investir em seed rounds.
-
 
 # Portfolio
 
@@ -20,7 +19,7 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 - Lobby
 - Guppy
 - Hyppe
-- IdWall
+- idWall
 - Jestor
 - Medway
 - Mora Rocks
@@ -29,7 +28,7 @@ Vem do **Like a Boss**, o podcast que criamos alguns anos atrás, quase que ao m
 - Terramagna
 - Vindi
 - Walljobs
-- Zenclub
+- zenclub
 
 
 # Quem somos?
@@ -61,6 +60,6 @@ Sim. Preferimos intros através de pessoas que conhecemos em comum.
 Não
 
 ### Qual é a tese de investimento?
-Investimos para poder aprender mais. Não há setor específico, nem round, nem momento. Mas certamente o time de fundadores e fundadoras importa, pois os momentos iniciais estão muito relacionados a execução, e é difícil enxergar economics, mercado e as pivotadas futuras.
+Não há tese. Não há setor específico, nem round, nem momento. Mas certamente o time de fundadores e fundadoras importa, pois os momentos iniciais estão muito relacionados a execução, e é difícil enxergar economics, mercado e as pivotadas futuras.
 
 
